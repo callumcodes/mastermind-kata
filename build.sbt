@@ -1,4 +1,4 @@
-name := "kata-name-here"
+name := "mastermind-kata"
 
 version := "0.1"
 
